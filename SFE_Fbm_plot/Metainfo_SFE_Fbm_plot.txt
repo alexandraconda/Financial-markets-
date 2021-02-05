@@ -1,6 +1,6 @@
 Name of QuantLet: SFE_Fbm_plot
 
-Published in: 
+Published in: Financial-markets-
 
 Description: Plots the fractional Brownian motion with different values for Hurst exponent.
 
