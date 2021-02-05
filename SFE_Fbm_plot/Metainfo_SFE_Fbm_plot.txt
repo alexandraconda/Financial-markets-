@@ -1,0 +1,18 @@
+Name of QuantLet: SFE_Fbm_plot
+
+Published in: 
+
+Description: Plots the fractional Brownian motion with different values for Hurst exponent.
+
+Keywords: plot, fractional brownian motion, hurst exponent 
+
+Author[Python]: Alexandra Ioana Conda
+
+Author[R]: Piotr Majer
+
+Submitted: February 2021
+
+Input: n: Number of observation
+       H1 and H2: Hurst exponent
+      
+Output: Plots the fractional Brownian motion with Hurst exponent H1=0.2 and H2=0.8.

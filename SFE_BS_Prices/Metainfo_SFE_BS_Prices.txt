@@ -1,0 +1,31 @@
+Name of QuantLet: SFE_BS_Prices
+
+Published in: 
+
+Description: Calculates and plots Black-Scholes prices for sigma = 0.15 and sigma = 0.3 with two values for time to maturity.
+
+Keywords: Plot, European option, Price, Black-Scholes 
+
+Author[Python]: Alexandra Ioana Conda
+
+Author[SAS]: Daniel Traian Pele
+
+Author[R]: Szymon Borak, Elisabeth Bommes
+
+Submitted: February 2021
+
+Input: S      = 100       # stock price
+       K      = 100       # strike price
+       r      = 0.1       # risk free interest rate
+       tau    = 0.6       # time to maturity (green line)
+       tau2   = 0.003     # time to maturity (red line)
+       sigma  = 0.15      # volatility of first plot
+       sigma2 = 0.3       # volatility of second plot
+       lb     = 0         # lower limit of x axis 
+       ub     = 170       # upper limit of x axis
+       
+Output: Plot of the Call Black-Scholes price as a function of a Brownian Motion St
+
+Example: The first plot (left) is generated for the parameters: S=100, K=100, r=0.1, tau=0.6/tau=0.03 and sigma = 0.15 
+
+         The second plot (right) is generated for the parameters: S=100, K=100, r=0.1, tau=0.6/tau=0.03 and sigma = 0.3

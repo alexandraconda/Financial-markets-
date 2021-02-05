@@ -1,0 +1,24 @@
+Name of QuantLet: SFE_CIR_Process
+
+Published in: 
+
+Description: A function that simulates and plots Cox-Ingersoll-Ross (CIR) process.
+
+Keywords: Simulation, Plot, Cox-Ingersoll-Ross
+
+Author[Python]: Alexandra Ioana Conda
+
+Author[SAS]: Daniel Traian Pele
+
+Author[R]: Awdesch Melzer, Piedad Castro
+
+Submitted: Sunday, 31 January 2021
+
+Input: Tobs: Number of observations for the simulation
+       alpha: The rate at which the process mean reverts
+       theta: The long run average interest rate
+       sigma: The volatility
+
+Output: Plot of CIR process
+
+Example: Used the function to simulates a Cox-Ingersol-Ross process with parameters alpha = 5, theta = 1, sigma = 0.2 and Tobs = 360
