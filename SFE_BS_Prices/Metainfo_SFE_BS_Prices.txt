@@ -1,6 +1,6 @@
 Name of QuantLet: SFE_BS_Prices
 
-Published in: 
+Published in: Financial-markets-
 
 Description: Calculates and plots Black-Scholes prices for sigma = 0.15 and sigma = 0.3 with two values for time to maturity.
 
