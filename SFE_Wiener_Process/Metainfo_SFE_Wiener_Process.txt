@@ -1,6 +1,6 @@
 Name of QuantLet: SFE_Wiener_Process
 
-Published in: 
+Published in: Financial-markets- 
 
 Description: A function that simulates and plots Wiener process.
 
